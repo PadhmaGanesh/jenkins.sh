@@ -1,0 +1,2 @@
+# jenkins.sh
+instalation steps
